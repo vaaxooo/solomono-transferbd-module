@@ -1,0 +1,1 @@
+{"opencart":{"host":"localhost","user":"mysql","password":"mysql","name":"solomono_module"},"solomono":{"host":"localhost","user":"mysql","password":"mysql","name":"work"}}
